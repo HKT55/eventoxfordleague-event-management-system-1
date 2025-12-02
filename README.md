@@ -209,10 +209,7 @@ Testing included:
 | Name | Role |
 |------|------|
 | Harsh | Project Manager & Developer |
-| Sanjay | Backend Developer |
-| Priya | Frontend Developer |
-| Aman | UI/UX Designer |
-| Riya | QA Tester |
+
 
 ---
 
